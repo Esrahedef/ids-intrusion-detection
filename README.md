@@ -5,6 +5,18 @@ Machine learning-based intrusion detection system using the **CIC-IDS2017 datase
 ---
 
 ## Dataset
+The dataset is not included in this repository due to its large size.
+
+You can download the CIC-IDS2017 dataset from:
+
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+After downloading, place the required CSV files inside the `data/` folder:
+
+data/
+├── Monday-WorkingHours.pcap_ISCX.csv
+├── Tuesday-WorkingHours.pcap_ISCX.csv
+├── Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 
 **Source:** CIC-IDS2017
 
